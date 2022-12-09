@@ -1,24 +1,24 @@
 {
-  "name": "edithai",
-  "version": "1.0.0",
-  "description": "ai based response chatbot",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/B0bbycode/edithai.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/B0bbycode/edithai/issues"
-  },
-  "homepage": "https://github.com/B0bbycode/edithai#readme",
-  "dependencies": {
-    "dialogflow": "^4.0.3",
-    "express": "^4.18.2"
-  }
+    "name": "edithai",
+    "version": "1.0.0",
+    "description": "ai based response chatbot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/B0bbycode/edithai.git"
+    },
+    "keywords": ["chatbot"],
+    "author": "B0bbycode",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/B0bbycode/edithai/issues"
+    },
+    "homepage": "https://github.com/B0bbycode/edithai#readme",
+    "dependencies": {
+        "dialogflow": "^4.0.3",
+        "express": "^4.18.2"
+    }
 }
