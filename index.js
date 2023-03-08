@@ -19,7 +19,7 @@ app.post('/message', (req, res) => {
     // Get the user's message from the request body
     const message = req.body.message;
 
-    // Detect the user's intent using Dialogflow
+    // Detect the user's intent with Dialogflow
     const request = {
         session: sessionPath,
         queryInput: {
